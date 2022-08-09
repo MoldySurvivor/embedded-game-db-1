@@ -1,8 +1,8 @@
 Snake~<iframe src="https://patorjk.com/games/snake/"title="Game"></iframe>
-Chess~<iframe src="https://playpager.com/embed/chess/index.html"</iframe>
-Jewel Match3~<iframe src="https://cdn.htmlgames.com/JewelMatch3/"</iframe>
-City Fuse~<iframe src="https://cdn.htmlgames.com/CityFuse/"</iframe>
-Bingo~<iframe src="https://cdn.htmlgames.com/Bingo/"</iframe>
-Tripeaks Farm~<iframe src="https://cdn.htmlgames.com/TripeaksFarm/"</iframe>
-Hashiwokakero~<iframe src="https://cdn.htmlgames.com/Hashiwokakero/"</iframe>
-Moo Moo~<iframe src="https://moomoo.io"</iframe>
+Chess~<iframe src="https://playpager.com/embed/chess/index.html"></iframe>
+Jewel Match3~<iframe src="https://cdn.htmlgames.com/JewelMatch3/"></iframe>
+City Fuse~<iframe src="https://cdn.htmlgames.com/CityFuse/"></iframe>
+Bingo~<iframe src="https://cdn.htmlgames.com/Bingo/"></iframe>
+Tripeaks Farm~<iframe src="https://cdn.htmlgames.com/TripeaksFarm/"></iframe>
+Hashiwokakero~<iframe src="https://cdn.htmlgames.com/Hashiwokakero/"></iframe>
+Moo Moo~<iframe src="https://moomoo.io"></iframe>
