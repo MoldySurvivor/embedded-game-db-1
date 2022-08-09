@@ -1,2 +1,2 @@
-Snake~<iframe src="https://patorjk.com/games/snake/"title="Game"></iframe>=
+Snake~<iframe src="https://patorjk.com/games/snake/"title="Game"></iframe>
 Chess~<iframe src="https://playpager.com/embed/chess/index.html"</iframe>
