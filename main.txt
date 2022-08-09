@@ -8,4 +8,4 @@ Hashiwokakero~<iframe src="https://cdn.htmlgames.com/Hashiwokakero/"></iframe>
 Moo Moo~<iframe src="https://moomoo.io"></iframe>
 Lordz~<iframe src="https://lordz.io"></iframe>
 Lordz2~<iframe src="https://lordz2.io"></iframe>
-Crazy Roll 3D~<iframe src="https://www.crazygames.com/embed/crazy-roll-3d" frameborder="0"></iframe>
+Crazy Roll 3D~<iframe src="https://www.crazygames.com/embed/crazy-roll-3d" style="width: 100%; height: 100%;" frameborder="0"></iframe>
