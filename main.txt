@@ -5,3 +5,4 @@ City Fuse~<iframe src="https://cdn.htmlgames.com/CityFuse/"</iframe>
 Bingo~<iframe src="https://cdn.htmlgames.com/Bingo/"</iframe>
 Tripeaks Farm~<iframe src="https://cdn.htmlgames.com/TripeaksFarm/"</iframe>
 Hashiwokakero~<iframe src="https://cdn.htmlgames.com/Hashiwokakero/"</iframe>
+Moo Moo~<iframe src="moomoo.io" </iframe>
